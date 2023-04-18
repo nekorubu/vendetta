@@ -107,12 +107,12 @@
 			"PRIMARY_500": "#2b2432",
 			"PRIMARY_600": "#2b2432",
 			"PRIMARY_630": "#45475a",
-			"PRIMARY_700": "#2b2432",
+			"PRIMARY_700": "#0e0a10",
 			"PRIMARY_800": "#0e0a10",
 			"PRIMARY_900": "#18111c",
 			"WHITE": "#cab4ee"
 		},
 		"unsafe_colors": {
-			"CHAT_GREY": "#0e0a10"
+			"CHAT_GREY": "#2b2432"
 		}
 }
